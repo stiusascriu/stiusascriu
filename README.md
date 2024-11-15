@@ -1,7 +1,3 @@
-# gramatica
-Gramatica
-
-# Descriere Bibliografică
 
 Bine ați venit la acest repository dedicat tuturor celor care își pun întrebarea dacă e corect să scrie [m-a sau ma](https://scridex.ro/m-a-sau-ma-cum-se-scrie-corect/) în propoziții, celor care se întreabă dacă e nevoie să folosească [v-a sau va](https://scridex.ro/v-a-sau-va-cum-se-scrie-corect/), ori celor care stau pe gânduri când trebuie să aleagă între [i-ai sau ia-i](https://scridex.ro/i-ai-ia-i-sau-iai-cum-se-scrie-corect/). Această colecție de resurse este pentru cei ce vor să înțeleagă, să analizeze și, mai presus de toate, să explice greșelile gramaticale pe care le întâlnim frecvent în scris sau în vorbire. 
 
