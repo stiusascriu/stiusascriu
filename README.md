@@ -7,3 +7,4 @@ Fiecare explicație oferă exemple și clarificări pentru dilemele gramaticale 
 Dacă vă întrebați despre corectitudinea unor expresii de genul [ati sau a-ti](https://scridex.ro/ati-sau-a-ti-cum-se-scrie-corect/), această resursă va explica clar când și de ce trebuie ales fiecare caz. Așadar, acest repository nu este doar un spațiu pentru corectarea greșelilor, ci și o invitație pentru a explora tainele gramaticii române, un loc unde gramatica prinde viață și fiecare ortogramă capătă înțeles.
 
 
+<meta name="google-site-verification" content="H_Lk57MVAJOt5LmhkIRl9Y0WQuMZ1i2lN8NoviGxFec" />
